@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/cursor-react-hooks/static/css/main.4873caba.chunk.css",
+    "main.js": "/cursor-react-hooks/static/js/main.b0c89c3a.chunk.js",
+    "main.js.map": "/cursor-react-hooks/static/js/main.b0c89c3a.chunk.js.map",
+    "runtime-main.js": "/cursor-react-hooks/static/js/runtime-main.207afdd4.js",
+    "runtime-main.js.map": "/cursor-react-hooks/static/js/runtime-main.207afdd4.js.map",
+    "static/js/2.37045ae7.chunk.js": "/cursor-react-hooks/static/js/2.37045ae7.chunk.js",
+    "static/js/2.37045ae7.chunk.js.map": "/cursor-react-hooks/static/js/2.37045ae7.chunk.js.map",
+    "static/js/3.a1285126.chunk.js": "/cursor-react-hooks/static/js/3.a1285126.chunk.js",
+    "static/js/3.a1285126.chunk.js.map": "/cursor-react-hooks/static/js/3.a1285126.chunk.js.map",
+    "index.html": "/cursor-react-hooks/index.html",
+    "static/css/main.4873caba.chunk.css.map": "/cursor-react-hooks/static/css/main.4873caba.chunk.css.map",
+    "static/js/2.37045ae7.chunk.js.LICENSE.txt": "/cursor-react-hooks/static/js/2.37045ae7.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/cursor-react-hooks/static/media/wrapper-background.5a3f14af.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.207afdd4.js",
+    "static/js/2.37045ae7.chunk.js",
+    "static/css/main.4873caba.chunk.css",
+    "static/js/main.b0c89c3a.chunk.js"
+  ]
+}
